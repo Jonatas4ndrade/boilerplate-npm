@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jonatas S. Andrade",
+	"description" : "Learning to use Npm with FreeCodeCamp"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
