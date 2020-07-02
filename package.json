@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jonatas S. Andrade",
 	"description" : "Learning to use Npm with FreeCodeCamp",
-  "keywords": [ "training", "concept","sandbox", "FCC" ],
+  "keywords": [ "training", "concept", "sandbox", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
