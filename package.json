@@ -3,8 +3,11 @@
 	"author": "Jonatas S. Andrade",
 	"description" : "Learning to use Npm with FreeCodeCamp",
   "keywords": [ "training", "concept", "sandbox", "freecodecamp" ],
+  "license" : "BSD",
+  "version" : "0.1a",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment" : "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
